@@ -1,0 +1,12 @@
+public class Employee1{
+	psvm(){
+	
+		int x =10;
+		System.out.println(x);
+	}
+
+	// New Features-200
+	public static newFeature(String x){
+	 System.out.println("New feature added");
+	}
+}
