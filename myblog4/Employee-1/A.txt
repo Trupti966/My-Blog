@@ -1,0 +1,7 @@
+public class Employee1{
+	psvm(){
+	
+		int x =10;
+		System.out.println(x);
+	}
+}
